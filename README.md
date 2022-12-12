@@ -7,7 +7,7 @@ An initial model first identifies the vocal regions(parts containing the voice) 
 
 # Features
 - [x] Key Detection
-- [x] Denoising capability
+- [x] Denoising 
 - [x] Voice Detection
 - [x] Vocal Melody Extraction
 - [x] Piano Melody
