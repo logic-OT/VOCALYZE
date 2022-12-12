@@ -29,7 +29,9 @@ pip install -r requirements.txt
 ```
 
 - Now you can import Vocalyze from which ever directory it's in and begin <b>Vocalyzing</b>
-```from {a directory}.Vocalyze import vocalyze```
+```
+from {a directory}.Vocalyze import vocalyze
+```
 
 
 
